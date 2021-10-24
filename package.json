@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-webscraper-clone",
+  "version": "1.0.0",
+  "description": "the world is yours",
+  "main": "Start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsinss/nodejs-webscraper-clone.git"
+  },
+  "author": "Mohsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsinss/nodejs-webscraper-clone/issues"
+  },
+  "homepage": "https://github.com/mohsinss/nodejs-webscraper-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
